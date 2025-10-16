@@ -87,3 +87,28 @@
 // })
 // console.log(arr);
 // console.log(b);
+
+
+// function myFunction()
+// {
+    
+//     console.log(v);
+//     console.log("hi bro");
+// }
+
+// myFunction();
+// console.log("i am in");
+
+
+
+
+// recursive function
+
+// function fact(n){
+//     if(n==0)
+//         return 1;
+//     return n*fact(n-1);
+// }
+// console.log(fact(5));
+
+
