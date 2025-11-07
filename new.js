@@ -91,7 +91,7 @@
 
 // function myFunction()
 // {
-    
+
 //     console.log(v);
 //     console.log("hi bro");
 // }
@@ -110,5 +110,16 @@
 //     return n*fact(n-1);
 // }
 // console.log(fact(5));
+
+
+function words(arr) {
+    let cam = [];
+
+
+}
+let array = ["eat", "bat", "ate", "tea", "non", "nno"]
+words(array);
+
+
 
 
